@@ -1,6 +1,7 @@
 html {
   font-size: 62.5%; /* muutetaan fonttikoko 62.5% x 16px = 10px --> käytä fonttikoon muuttamiseen bodyn sisällä yksikköä rem */
 }
+/* Testimuokkaus gittiiin */
 body {
   font-family: "Roboto Slab", serif;
   margin: 1rem;
